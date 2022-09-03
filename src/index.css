@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "Nineties Display";
+    src: url("../public/fonts/NinetiesDisplay.otf");
+}
+@font-face {
+    font-family: "Neutral Face";
+    src: url("../public/fonts/NeutralFace.otf");
+}
+@font-face {
+    font-family: "Neutral Face Bold";
+    src: url("../public/fonts/NeutralFace-Bold.otf");
+}
+html {
+    scroll-behavior: smooth;
+}
+body::-webkit-scrollbar {
+    display: none;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}

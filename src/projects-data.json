@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "E-commerce",
+        "img": "https://github.com/ignaciojsoler/ignaciojsoler/raw/main/img/ecommerce.webp",
+        "repository": "https://github.com/ignaciojsoler/ecommerce-redux",
+        "deploy": "https://ignaciojsoler.github.io/ecommerce-redux/"
+    },
+    {
+        "id": 2,
+        "title": "Disney Plus Clone",
+        "img": "https://github.com/ignaciojsoler/ignaciojsoler/raw/main/img/disney.webp",
+        "repository": "https://github.com/ignaciojsoler/challenge-bemaster",
+        "deploy": "https://ignaciojsoler.github.io/challenge-bemaster/"
+    },
+    {
+        "id": 3,
+        "title": "CRUD App - Task Organizer",
+        "img": "https://github.com/ignaciojsoler/ignaciojsoler/raw/main/img/todo-app.webp",
+        "repository": "https://github.com/ignaciojsoler/todo-app-react",
+        "deploy": "https://ignaciojsoler.github.io/todo-app-react/"
+    },
+    {
+        "id": 4,
+        "title": "Krono Records Landing Page",
+        "img": "https://github.com/ignaciojsoler/ignaciojsoler/raw/main/img/krono.webp",
+        "repository": "https://github.com/ignaciojsoler/kronorecords-react",
+        "deploy": "https://ignaciojsoler.github.io/kronorecords-react/"
+    },
+    {
+        "id": 5,
+        "title": "Movies App",
+        "img": "https://github.com/ignaciojsoler/ignaciojsoler/raw/main/img/movies.webp",
+        "repository": "https://github.com/ignaciojsoler/alkemy-skillup",
+        "deploy": null
+    },
+    {
+        "id": 6,
+        "title": "Travels Static Landing Page",
+        "img": "https://github.com/ignaciojsoler/ignaciojsoler/raw/main/img/travelAndAdventure.webp",
+        "repository": "https://github.com/ignaciojsoler/travelandadventure",
+        "deploy": "https://travelandadventure.netlify.app/"
+    }
+]
