@@ -20,7 +20,7 @@ const Navbar = () => {
             <div className={`fixed h-screen w-screen top-0 left-0 bg-black z-40 backdrop-blur-sm transition duration-200 ${isOpen ? 'bg-opacity-50' : 'opacity-0 hidden'}`}></div>
 
             <animated.div style={navbarAnimation} className='w-full py-10 fixed z-40 sm:px-16'>
-                <div className='justify-between hidden sm:flex'>
+                <div className='justify-between hidden sm:flex max-w-screen-xl m-auto'>
                     <a href="#home" className='text-white font-neutral font-semibold block hover:text-gray-400 transition'>Ignacio Soler</a>
                     <ul className=' flex justify-between items-center text-white font-neutral font-semibold text-sm space-x-10'>
                         <li><a href="#home" className='hover:text-gray-400 transition'>Home</a></li>
