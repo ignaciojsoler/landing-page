@@ -13,7 +13,7 @@ const Navbar = () => {
                     <li><a href="#home" className='hover:text-gray-400 transition'>Home</a></li>
                     <li><a href="#about" className='hover:text-gray-400 transition'>About</a></li>
                     <li ><a href="#skills" className='hover:text-gray-400 transition py-4' >Skills</a> </li>
-                    <li ><a href="#projects" className='hover:text-gray-400 transition py-4' >Projects</a></li>
+                    <li ><a href="#works" className='hover:text-gray-400 transition py-4' >Works</a></li>
                     <li ><a href="#contact" className='hover:text-gray-400 transition py-4' >Contact</a></li>
                 </ul>
             </aside>
@@ -26,7 +26,7 @@ const Navbar = () => {
                         <li><a href="#home" className='hover:text-gray-400 transition'>Home</a></li>
                         <li><a href="#about" className='hover:text-gray-400 transition'>About</a></li>
                         <li ><a href="#skills" className='hover:text-gray-400 transition py-4' >Skills</a> </li>
-                        <li ><a href="#projects" className='hover:text-gray-400 transition py-4' >Projects</a></li>
+                        <li ><a href="#works" className='hover:text-gray-400 transition py-4' >Works</a></li>
                         <li ><a href="#contact" className='hover:text-gray-400 transition py-4' >Contact</a></li>
                     </ul>
                 </div>

@@ -10,7 +10,7 @@ const Ecommerce = () => {
     let widthScreen = screen.width / 1.7
 
     return (
-        <div id="projects">
+        <div id="works">
             <ScrollPage>
                 <Animator animation={batch(Sticky(), Fade(), MoveIn(widthScreen, 0), MoveOut(-widthScreen, 0))}>
                     <div className='space-y-4 invisible sm:visible'>
